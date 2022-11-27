@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KK-tech-byte1991
-- 👀 I’m interested in develop React Projects
+- 👀 I’m interested in developing React Projects.
 - 🌱 I’m currently learning to use React on scalable Applications.
 - 💞️ I’m looking to collaborate on React stuff.
 - 📫 How to reach me kishorkumarmali1991@gmail.com
